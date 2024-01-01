@@ -20,3 +20,5 @@ This repository contains a set of SQL queries that I've created to analyze the q
 -- 9. Select companies from "AUTOMOBILES & AUTO COMPONENTS" sector and paid over 100 in "tax"
 
 -- 10. Calculate the average value of Operating Profit Margin for all companies in the "CEMENT AND CONSTRUCTION" sector.
+
+Feel free to explore and modify these queries for your own analysis. If you have any questions or improvements, please let me know!
